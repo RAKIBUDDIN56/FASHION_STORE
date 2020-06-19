@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efc49164-dc5d-43cb-9955-aba400764e6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shopping_cart - Copy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/category.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/login.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/models/product.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/routes/product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/_redirects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Addform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Category.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/CategoryDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Innercover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Loading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Navbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Produce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductDisplay.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductFilter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ProductList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/StyledBackground.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Title.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/catdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/cover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/electronic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/fashion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gif/loading-arrow.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/gifts.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/iphone1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/iphone2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/iphone3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/iphone4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/jac1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/jac2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/jac3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/jac4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/lamp1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/lamp2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/lamp3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/lamp4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/phone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/product.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/sports.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/watch1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/watch2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/watch3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/watch4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AddProduct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Phone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Product.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/productdata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cDfosnl9zAnI2PE4wYaR3mPmZC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/MyReads" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\SHOPPING_STORE\src\Components" />
+      <recent name="C:\Users\User\Desktop\SHOPPING_STORE\backend\models" />
+      <recent name="C:\Users\User\Desktop\SHOPPING_STORE\backend\routes" />
+      <recent name="C:\Users\User\Desktop\SHOPPING_STORE\src\pages" />
+      <recent name="C:\Users\User\Desktop\SHOPPING_STORE\src\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\DESKTOP\Online_Shopping_Store\backend\routes" />
+      <recent name="C:\Users\User\Desktop\DESKTOP\Online_Shopping_Store\src\Components" />
+      <recent name="C:\Users\User\Desktop\DESKTOP\Online_Shopping_Store\backend\models" />
+      <recent name="C:\Users\User\Desktop\shopping_cart - Copy\src\pages" />
+      <recent name="C:\Users\User\Desktop\shopping_cart - Copy\src\Components" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efc49164-dc5d-43cb-9955-aba400764e6d" name="Default Changelist" comment="" />
+      <created>1590068262645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590068262645</updated>
+      <workItem from="1590068264438" duration="14273000" />
+      <workItem from="1590097884348" duration="5853000" />
+      <workItem from="1590121839838" duration="17172000" />
+      <workItem from="1590150718458" duration="26939000" />
+      <workItem from="1590207840975" duration="31690000" />
+      <workItem from="1590287061826" duration="300000" />
+      <workItem from="1590287522542" duration="733000" />
+      <workItem from="1590289342138" duration="28722000" />
+      <workItem from="1590381446448" duration="2175000" />
+      <workItem from="1590386838762" duration="1394000" />
+      <workItem from="1590775723867" duration="2032000" />
+      <workItem from="1591262982875" duration="162000" />
+      <workItem from="1591284538430" duration="1504000" />
+      <workItem from="1591892906341" duration="593000" />
+      <workItem from="1592025518656" duration="10165000" />
+      <workItem from="1592053967958" duration="1887000" />
+      <workItem from="1592320549928" duration="1641000" />
+      <workItem from="1592365222219" duration="11588000" />
+      <workItem from="1592402249133" duration="8787000" />
+      <workItem from="1592467806767" duration="5221000" />
+      <workItem from="1592485218229" duration="5180000" />
+      <workItem from="1592573270049" duration="12175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590129518031">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="499" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1536.824@0.40.1536.824" timestamp="1590129518031" />
+    <state x="549" y="207" key="FileChooserDialogImpl" timestamp="1592486076013">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="549" y="207" key="FileChooserDialogImpl/0.40.1536.824@0.40.1536.824" timestamp="1592486076013" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1590386262572">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1590386262572" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1590386262572">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1590386262572" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1590386262572">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1590386262572" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1590386262572">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1590386262572" />
+    <state x="277" y="97" key="SettingsEditor" timestamp="1590247483087">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="277" y="97" key="SettingsEditor/0.40.1536.824@0.40.1536.824" timestamp="1590247483087" />
+    <state x="477" y="185" width="581" height="534" key="find.popup" timestamp="1592393302696">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="477" y="185" width="581" height="534" key="find.popup/0.40.1536.824@0.40.1536.824" timestamp="1592393302696" />
+  </component>
+</project>
